@@ -1,0 +1,83 @@
+body {
+  background-color: #1d1d1d;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+button {
+  border: none;
+  border-radius: 50%;
+  background-color: transparent;
+  padding: 30px;
+  border: 2px solid #ffffff;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+}
+
+.rScores {
+  border-radius: 15px;
+  padding: 15px 16px;
+  color: white;
+  background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  border: 1px solid #808080;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.result {
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffd700;
+  margin-top: 12px;
+  margin-bottom: 20px;
+}
+
+.Move {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: #c0c0c0;
+  margin-bottom: 50px;
+}
+
+.yes-btn{
+  padding: 10px 20px;
+  border: none;
+  border-radius: 15px;
+  background-color: #000000;
+  color: #ffffff;
+  margin-left: 10px;
+  font-size: 18px;
+}
+
+.no-btn{
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 15px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.confirmation-container{
+  width: max-content;
+  height: 40px;
+  padding: 10px;
+  background-color: #3f3f3f;
+  border-radius: 10px;
+}
